@@ -1,0 +1,2 @@
+Prefix plugins/MelitaSuite/example/
+Plugin MelitaSuite inputfile input.txt outputfile none
