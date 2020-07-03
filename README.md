@@ -1,8 +1,9 @@
 # MelitaSuite
 # Language: Python
 # Input: TXT 
-# Output: varies
-# Tested with: PluMA 1.0, Python 3.6
+# Output: none
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: Melita
 
 PluMA plugin to interface to the Melita suite of analysis tools
 for degenerate primers (Jaric et al, 2013)
